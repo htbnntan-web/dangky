@@ -1,0 +1,6 @@
+{
+  "name": "Đăng ký Cựu học sinh & Giáo viên THPT Hàm Thuận Bắc",
+  "description": "Ứng dụng thu thập thông tin cựu giáo viên, cựu học sinh chuẩn bị cho Kỷ niệm 50 năm ngày thành lập trường THPT Hàm Thuận Bắc (1976 - 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
